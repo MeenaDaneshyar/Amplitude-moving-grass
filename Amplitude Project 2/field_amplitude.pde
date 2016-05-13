@@ -1,5 +1,5 @@
 //In this sketch Processing is connecting to PD via OSC to recieve the amplitude data and maps it to coordinates of the amount of bend in the grass. 
-//The grass is drawn in 3D space with the bendamount being placed on the X axis.
+//The grass is drawn in 3D space with the bendamount being placed on the Z axis.
 
 
 
